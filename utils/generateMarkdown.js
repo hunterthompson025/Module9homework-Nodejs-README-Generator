@@ -31,23 +31,28 @@ ${data.description}
 * [Tests](#tests)
 
 ## Installation
+
 ${data.installation}
 
 ## Usage
+
 ${data.usage}
 
 ## License
-The application is covered under the ${data.license}
+
+The application is covered under the ${data.license} license.
 
 ## Contrubting
+
 ${data.contributing}
 
 ## Tests
+
 ${data.tests}
 
 ## Questions
 
-Please reach out for additional questions through email: ${data.email}. For more of my work check out my GitHub page: [${data.githubUsername}](https://github.com/${data.githubUsername})
+Please reach out for additional questions through email: ${data.email}. For more of my work check out my GitHub page: [${data.github}](https://github.com/${data.github})
 `;
 }
 
